@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.top-bar{
+    padding: 5px;
+    border-bottom: 5px solid #ffe95d;
+    background-color: #00032FFF;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.headline{
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+
+.sub-title{
+    font-weight: normal;
+    font-size: 20;
+}
+
+.author{
+    font-weight: bold;
+    font-size: 0.8em;
+    text-align: right;
+}
+
+.data{
+    text-align: right;
+}
+
+.social-icons{
+    margin-top: 15px;
+    text-align: right;
+}
+
+.social-icon{
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: #bba200;
+    font-weight: bold;
+}
+
+.content{
+    width: 700px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    line-height: 28px;
+    text-align: justify;
+}
+
+.cta{
+    font-size: 20px;
+    margin: 30px 0;
+}
+
+figure{
+    padding: 0;
+    margin: 40px 0;
+}
+
+figure>img{
+    width: 100%;
+}
+
+figcaption{
+    font-size: 10px;
+}
+
+#youtube{
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+}
+
+.social-icon-y{
+    width: 16px;
+    height: 16px;
+    margin: 0px 3px;
+}
+
+.footer{
+    height: 100px;
+    background-color: #ffe95d;
+    margin: 0;
+    padding: 0;
+}
